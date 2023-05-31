@@ -19,27 +19,6 @@ Introduction to Deep Learning: We begin with an introduction to deep learning, u
 
 7. Deployment: Finally, we cover the deployment aspect of deep learning models. We explore different techniques to deploy PyTorch models, including cloud services and mobile devices.
 
-
-Deep Learning with PyTorch
-This repository contains the code and materials for the Deep Learning with PyTorch course, leveraged from the YouTube tutorial "PyTorch for Deep Learning & Machine Learning – Full Course" by Daniel Bourke from freecodecamp.org. This course is designed to provide a comprehensive introduction to deep learning using the PyTorch framework.
-
-Course Overview
-In this course, we will dive into the world of deep learning and explore various concepts and techniques using PyTorch. The course is structured as follows:
-
-Introduction to Deep Learning: We begin with an introduction to deep learning, understanding its applications, and the basic components of a neural network.
-
-PyTorch Basics: Next, we explore the PyTorch framework and its fundamental concepts. We cover topics such as tensors, automatic differentiation, and building basic neural networks.
-
-Convolutional Neural Networks (CNNs): In this section, we focus on CNNs, a powerful type of neural network widely used in image recognition tasks. We learn how to build and train CNNs using PyTorch.
-
-Recurrent Neural Networks (RNNs): RNNs are essential for processing sequential data such as text and time series. Here, we delve into RNN architectures, including the popular LSTM (Long Short-Term Memory), and implement them using PyTorch.
-
-Transfer Learning: Transfer learning allows us to leverage pre-trained models for our own tasks. We explore how to use pre-trained models from PyTorch's torchvision library and fine-tune them for specific purposes.
-
-Generative Adversarial Networks (GANs): GANs are a fascinating class of models used for generating new data. We study the theory behind GANs and learn how to implement them using PyTorch.
-
-Deployment: Finally, we cover the deployment aspect of deep learning models. We explore different techniques to deploy PyTorch models, including cloud services and mobile devices.
-
 ## Usage
 Each section of the course has its own corresponding folder, containing the code and materials for that specific topic. The code is written in Python and requires PyTorch to be installed.
 
