@@ -3,6 +3,7 @@
 This repository contains the code and materials for the Deep Learning with PyTorch course, leveraged from the YouTube tutorial "PyTorch for Deep Learning & Machine Learning – Full Course" by Daniel Bourke from freecodecamp.org. This course is designed to provide a comprehensive introduction to deep learning using the PyTorch framework. 
 
 ## Course Overview
+In this course, we will dive into the world of deep learning and explore various concepts and techniques using PyTorch. The course is structured as follows:
 
 1. In this course, we will dive into the world of deep learning and explore various concepts and techniques using PyTorch. The course is structured as follows:
 Introduction to Deep Learning: We begin with an introduction to deep learning, understanding its applications, and the basic components of a neural network.
