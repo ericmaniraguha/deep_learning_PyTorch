@@ -34,4 +34,6 @@ Feel free to explore the code, experiment with different parameters, and modify 
 
 ### Acknowledgments
 
-I would like to express my gratitude to Daniel Bourke for creating the original tutorial on which this course is based. His clear explanations and practical examples serve as an excellent resource for anyone interested in deep learning with PyTorch. I also want to thank freecodecamp.org for providing the platform to share this valuable content.
+I would like to express my gratitude to `Daniel Bourke` for creating the original tutorial on which this course is based. His clear explanations and practical examples serve as an excellent resource for anyone interested in deep learning with PyTorch. I also want to thank freecodecamp.org for providing the platform to share this valuable content.
+
+Main Source: `https://www.youtube.com/watch?v=V_xro1bcAuA`
